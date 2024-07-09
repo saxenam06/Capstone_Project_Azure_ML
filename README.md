@@ -29,6 +29,9 @@ https://www.kaggle.com/andrewmvd/heart-failure-clinical-data
 
 ![image](https://github.com/saxenam06/Capstone_Project_Azure_ML/assets/83720464/125b7c36-b4c0-4d8c-a2d4-a515ef35f06d)
 
+### AutoML model registered
+![image](https://github.com/saxenam06/Capstone_Project_Azure_ML/assets/83720464/6fd17d22-4b83-4bce-8fb0-c1b290e5ceb4)
+
 ## HyperDrive
 
 ### Notebook and used files for HyperDrive
