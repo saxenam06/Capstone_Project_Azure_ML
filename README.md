@@ -1,5 +1,11 @@
 # Capstone_Project_Azure_ML
 
+This capstone project is the culmination of the Azure ML Engineer path. The primary objective is to develop and deploy a predictive model for stroke occurrence based on various diseases and habits recorded in the dataset. The project is structured into three main tasks:
+
+- Train a Model with AutoML: Utilize Azure AutoML to automate the process of model selection and hyperparameter tuning.
+- Train a Model with HyperDrive: Implement HyperDrive to perform hyperparameter optimization manually, ensuring a thorough search for the best model configuration.
+- Deploy the Best Model: Compare the models generated from AutoML and HyperDrive, and deploy the superior model. In our case we found that Hyperdrive gave the better model 0.95 Accuracy as compared to that obtained from AutoML i.e. 0.85 AUC. 
+
 ### Dataset
 https://www.kaggle.com/andrewmvd/heart-failure-clinical-data
 ![image](https://github.com/saxenam06/Capstone_Project_Azure_ML/assets/83720464/7414f3c6-ff3c-421f-8b81-e4fb9291d2c1)
