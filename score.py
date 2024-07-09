@@ -1,21 +1,28 @@
 import json
-import pandas as pd
 import joblib
+import numpy as np
 from azureml.core.model import Model
-import os
 
+# Called when the service is loaded
 def init():
     global model
-    
-    model_path = os.path.join(os.getenv('AZUREML_MODEL_DIR'), 'hyperdrive_best_run.pkl.pkl')
+    # Load the model from the model registry
+    model_path = Model.get_model_path(model_name='sklearn-stroke')
     model = joblib.load(model_path)
 
-def run(data):  
+# Called when a request is received
+def run(data):
     try:
-        test_data = json.loads(data)
-        data_frame = pd.DataFrame(test_data['data'])
-        result = model.predict(data_frame)
-        return json.dumps({"result": result.tolist()})
+        # Parse the input data
+        data = json.loads(data)
+        input_data = np.array(data['data'])
+        
+        # Perform prediction
+        predictions = model.predict(input_data)
+        
+        # Return the predictions as JSON
+        return json.dumps({"predictions": predictions.tolist()})
     except Exception as e:
         error = str(e)
-        return error
+        return json.dumps({"error": error})
+
