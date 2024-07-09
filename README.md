@@ -6,6 +6,8 @@ This capstone project is the culmination of the Azure ML Engineer path. The prim
 - Train a Model with HyperDrive: Implement HyperDrive to perform hyperparameter optimization manually, ensuring a thorough search for the best model configuration.
 - Deploy the Best Model: Compare the models generated from AutoML and HyperDrive, and deploy the superior model. In our case we found that Hyperdrive gave the better model 0.95 Accuracy as compared to that obtained from AutoML i.e. 0.85 AUC. 
 
+Below are the mentioned steps in which this project was performed. 
+
 ### Dataset
 https://www.kaggle.com/andrewmvd/heart-failure-clinical-data
 ![image](https://github.com/saxenam06/Capstone_Project_Azure_ML/assets/83720464/7414f3c6-ff3c-421f-8b81-e4fb9291d2c1)
@@ -51,3 +53,5 @@ https://www.kaggle.com/andrewmvd/heart-failure-clinical-data
 ### Screencast
 https://www.youtube.com/watch?v=Fjs2wnb_BH4
 
+### Service deletion
+![image](https://github.com/saxenam06/Capstone_Project_Azure_ML/assets/83720464/0fc0c292-d191-4a2e-8e09-fbd7b3112cc1)
