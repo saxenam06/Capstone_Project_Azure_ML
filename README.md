@@ -34,6 +34,7 @@ https://www.kaggle.com/andrewmvd/heart-failure-clinical-data
 ### Model Deployed as endpoint
 ![image](https://github.com/saxenam06/Capstone_Project_Azure_ML/assets/83720464/4c4a38f8-a480-49c9-8e99-f6631ab012f3)
 
+![image](https://github.com/saxenam06/Capstone_Project_Azure_ML/assets/83720464/4ed11cac-9fe5-4895-9666-da0ed48df6d6)
 
 ### Predictions
 ![image](https://github.com/saxenam06/Capstone_Project_Azure_ML/assets/83720464/d073f92e-036c-42cf-8d46-3ae4cfae01d9)
