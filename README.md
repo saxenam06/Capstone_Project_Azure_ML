@@ -2,6 +2,7 @@
 
 ### Dataset
 https://www.kaggle.com/andrewmvd/heart-failure-clinical-data
+![image](https://github.com/saxenam06/Capstone_Project_Azure_ML/assets/83720464/7414f3c6-ff3c-421f-8b81-e4fb9291d2c1)
 
 ## AutoML
 ![image](https://github.com/saxenam06/Capstone_Project_Azure_ML/assets/83720464/d01fab6b-6493-42af-8904-748ed5d1ae54)
@@ -16,6 +17,10 @@ https://www.kaggle.com/andrewmvd/heart-failure-clinical-data
 
 ### Best Model
 ![image](https://github.com/saxenam06/Capstone_Project_Azure_ML/assets/83720464/ca6a7a43-7d84-493a-baf3-abf498e407bc)
+
+### Model Deployed as endpoint
+![image](https://github.com/saxenam06/Capstone_Project_Azure_ML/assets/83720464/4c4a38f8-a480-49c9-8e99-f6631ab012f3)
+
 
 ### Predictions
 ![image](https://github.com/saxenam06/Capstone_Project_Azure_ML/assets/83720464/d073f92e-036c-42cf-8d46-3ae4cfae01d9)
