@@ -40,6 +40,10 @@ https://www.kaggle.com/andrewmvd/heart-failure-clinical-data
 ### HyperDrive Run details
 ![image](https://github.com/saxenam06/Capstone_Project_Azure_ML/assets/83720464/32be52f3-a791-4940-bfb4-65248d5a63a2)
 
+### HyperDrive Trials
+![image](https://github.com/saxenam06/Capstone_Project_Azure_ML/assets/83720464/57a97013-18eb-461c-9228-4f68d7775fe3)
+
+
 ### HyperDrive Best Model
 ![image](https://github.com/saxenam06/Capstone_Project_Azure_ML/assets/83720464/ca6a7a43-7d84-493a-baf3-abf498e407bc)
 
