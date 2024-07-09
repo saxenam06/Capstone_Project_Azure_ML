@@ -9,13 +9,19 @@ https://www.kaggle.com/andrewmvd/heart-failure-clinical-data
 ### Run details
 ![image](https://github.com/saxenam06/Capstone_Project_Azure_ML/assets/83720464/d01fab6b-6493-42af-8904-748ed5d1ae54)
 
+
+### AutoML Job completed
+![image](https://github.com/saxenam06/Capstone_Project_Azure_ML/assets/83720464/388df000-d65a-491b-9891-c6035a38eb84)
+
+
 ### Best model
 ![image](https://github.com/saxenam06/Capstone_Project_Azure_ML/assets/83720464/4b5a2530-144e-475f-8c4d-c2ebec9bce1c)
 
 ![image](https://github.com/saxenam06/Capstone_Project_Azure_ML/assets/83720464/9d85a9cf-df2c-4db5-bb96-54636532dad9)
 
-### Model deployed
-![image](https://github.com/saxenam06/Capstone_Project_Azure_ML/assets/83720464/388df000-d65a-491b-9891-c6035a38eb84)
+![image](https://github.com/saxenam06/Capstone_Project_Azure_ML/assets/83720464/125b7c36-b4c0-4d8c-a2d4-a515ef35f06d)
+
+
 
 ## HyperDrive
 
