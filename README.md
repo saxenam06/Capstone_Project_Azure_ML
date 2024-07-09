@@ -5,6 +5,8 @@ https://www.kaggle.com/andrewmvd/heart-failure-clinical-data
 ![image](https://github.com/saxenam06/Capstone_Project_Azure_ML/assets/83720464/7414f3c6-ff3c-421f-8b81-e4fb9291d2c1)
 
 ## AutoML
+
+### Run details
 ![image](https://github.com/saxenam06/Capstone_Project_Azure_ML/assets/83720464/d01fab6b-6493-42af-8904-748ed5d1ae54)
 
 ### Best model
@@ -12,7 +14,12 @@ https://www.kaggle.com/andrewmvd/heart-failure-clinical-data
 
 ![image](https://github.com/saxenam06/Capstone_Project_Azure_ML/assets/83720464/9d85a9cf-df2c-4db5-bb96-54636532dad9)
 
+### Model deployed
+![image](https://github.com/saxenam06/Capstone_Project_Azure_ML/assets/83720464/388df000-d65a-491b-9891-c6035a38eb84)
+
 ## HyperDrive
+
+### Run details
 ![image](https://github.com/saxenam06/Capstone_Project_Azure_ML/assets/83720464/32be52f3-a791-4940-bfb4-65248d5a63a2)
 
 ### Best Model
