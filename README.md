@@ -16,9 +16,10 @@ The dataset utilized for this project is the Heart Failure Clinical Dataset. It 
 
 To import the dataset into Azure ML Studio workspace:
 The dataset was sourced from below Kaggle link and downloaded as a CSV file.
+Azure ML Studio was used to create a Dataset in the worskpace by uploading it from local files. 
+
 ![image](https://github.com/saxenam06/Capstone_Project_Azure_ML/assets/83720464/7414f3c6-ff3c-421f-8b81-e4fb9291d2c1)
 
-Azure ML Studio was used to create a Dataset in the worskpace by uploading it from local files. 
 
 ## AutoML
 
