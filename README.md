@@ -25,16 +25,19 @@ Azure ML Studio was used to create a Dataset in the worskpace by uploading it fr
 
 ### AutoML Run details
 AutoML Run details which details all the trials performed by AutoML and their corresponding results.
+
 ![image](https://github.com/saxenam06/Capstone_Project_Azure_ML/assets/83720464/d01fab6b-6493-42af-8904-748ed5d1ae54)
 
 
 ### AutoML Job completed
 The screenshot of the completed AutoML job.
+
 ![image](https://github.com/saxenam06/Capstone_Project_Azure_ML/assets/83720464/388df000-d65a-491b-9891-c6035a38eb84)
 
 
 ### AutoML Best model
 The best model found by the AutoML and its properties can be detaile like below.
+
 ![image](https://github.com/saxenam06/Capstone_Project_Azure_ML/assets/83720464/4b5a2530-144e-475f-8c4d-c2ebec9bce1c)
 
 ![image](https://github.com/saxenam06/Capstone_Project_Azure_ML/assets/83720464/9d85a9cf-df2c-4db5-bb96-54636532dad9)
@@ -43,12 +46,14 @@ The best model found by the AutoML and its properties can be detaile like below.
 
 ### AutoML model registered
 The best model is registered. 
+
 ![image](https://github.com/saxenam06/Capstone_Project_Azure_ML/assets/83720464/6fd17d22-4b83-4bce-8fb0-c1b290e5ceb4)
 
 ## HyperDrive
 
 ### Notebook and used files for HyperDrive
 Folloowing Notebook with the requied files and dependencies are uploaded in the Notebooks section of Azure ML workspace. Python Azure ML kernel was used to run the notebooks. 
+
 ![image](https://github.com/saxenam06/Capstone_Project_Azure_ML/assets/83720464/509a2a54-5b9e-4b41-9782-7ac2f5c1c918)
 
 ### HyperDrive Search details 
@@ -58,10 +63,12 @@ max_iter: "Maximum number of iterations to converge" with Choice between 50, 100
 
 ### HyperDrive Run details
 Following was can be used to show the progres of HyperDrive run. 
+
 ![image](https://github.com/saxenam06/Capstone_Project_Azure_ML/assets/83720464/32be52f3-a791-4940-bfb4-65248d5a63a2)
 
 ### HyperDrive Trials
 Following figure shows varioius trials made by HYperdrive and their various metrics results can be seen in the dashboard.   
+
 ![image](https://github.com/saxenam06/Capstone_Project_Azure_ML/assets/83720464/57a97013-18eb-461c-9228-4f68d7775fe3)
 
 ### Overview of the Best Model
@@ -72,6 +79,7 @@ HyperDrive Best Model: LogisticRegression with a regularization strength of 0.99
 
 ### HyperDrive Best Model
 Best model from HyperDrive can be obtained like below. 
+
 ![image](https://github.com/saxenam06/Capstone_Project_Azure_ML/assets/83720464/ca6a7a43-7d84-493a-baf3-abf498e407bc)
 
 ### Overview of Deployed Model
@@ -91,19 +99,23 @@ print(result)'
 
 ### HyperDrive Model Deployed as endpoint
 The best model from Hyper Drive is deployed as endpoint. The deployment should be in Healthy state for it to serve the requests. 
+
 ![image](https://github.com/saxenam06/Capstone_Project_Azure_ML/assets/83720464/4c4a38f8-a480-49c9-8e99-f6631ab012f3)
 
 ### HyperDrive Predictions
 The prediction result of the request made to the HyperDrive endpoint is show below. 
+
 ![image](https://github.com/saxenam06/Capstone_Project_Azure_ML/assets/83720464/d073f92e-036c-42cf-8d46-3ae4cfae01d9)
 
 
 ### Screencast
 Please refer to below screencast for more details
+
 https://www.youtube.com/watch?v=Fjs2wnb_BH4
 
 ### Service deletion
 In the end dont forget to delete the service. 
+
 ![image](https://github.com/saxenam06/Capstone_Project_Azure_ML/assets/83720464/0fc0c292-d191-4a2e-8e09-fbd7b3112cc1)
 
 
