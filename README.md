@@ -24,7 +24,7 @@ Azure ML Studio was used to create a Dataset in the worskpace by uploading it fr
 ## AutoML
 
 ### AutoML Run details
-AutoML Run details which details all the trials performed by AutoML and their corresponding results.
+Details of all the trials performed by AutoML and their corresponding results.
 
 ![image](https://github.com/saxenam06/Capstone_Project_Azure_ML/assets/83720464/d01fab6b-6493-42af-8904-748ed5d1ae54)
 
