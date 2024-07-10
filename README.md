@@ -36,11 +36,14 @@ The screenshot of the completed AutoML job.
 
 
 ### AutoML Best model
-The best model found by the AutoML and its properties can be detaile like below.
+The best model found by the AutoML and its properties can be detailed like below.
 
 ![image](https://github.com/saxenam06/Capstone_Project_Azure_ML/assets/83720464/4b5a2530-144e-475f-8c4d-c2ebec9bce1c)
 
+All the metrics of the best AutoML model
 ![image](https://github.com/saxenam06/Capstone_Project_Azure_ML/assets/83720464/9d85a9cf-df2c-4db5-bb96-54636532dad9)
+
+Best Model can also be visualized in Azure ML workspace. 
 
 ![image](https://github.com/saxenam06/Capstone_Project_Azure_ML/assets/83720464/125b7c36-b4c0-4d8c-a2d4-a515ef35f06d)
 
