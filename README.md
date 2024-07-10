@@ -88,8 +88,7 @@ Best model from HyperDrive can be obtained like below.
 ### Overview of Deployed Model
 The HyperDrive best model, a LogisticRegression classifier, was deployed as an endpoint. To query the endpoint for predictions, use the sample input in 'data' and below Python code snippet.
 You may need to copy the the Rest url from the Deployed model endpoint
-'
-data = {"data": [[0, 0, 0, 0, 0, False, 0, 0, 0, 0, 0]]}
+''data = {"data": [[0, 0, 0, 0, 0, False, 0, 0, 0, 0, 0]]}
 body = str.encode(json.dumps(data))
 
 url = 'Rest url of the endpoint'
@@ -98,7 +97,7 @@ headers = {'Content-Type':'application/json'}
 req = urllib.request.Request(url, body, headers)
 response = urllib.request.urlopen(req)
 result = response.read()
-print(result)'
+print(result)''
 
 ### HyperDrive Model Deployed as endpoint
 The best model from Hyper Drive is deployed as endpoint. The deployment should be in Healthy state for it to serve the requests. 
